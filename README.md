@@ -4,7 +4,7 @@ Página web básica desarrollada con HTML y CSS que explica qué es la computaci
 
 ## Sitio en vivo
 
-[Ver sitio publicado]([https://tarea3-computacion-en-la-nube.netlify.app])
+Ver sitio publicado: https://tarea3-computacion-en-la-nube.netlify.app
 
 ## Tecnologías utilizadas
 
